@@ -3,7 +3,7 @@
 
 **Version:** 1.0
 **Status:** DRAFT (Pending Final Approval)
-**Author:** [Your Name]
+**Author:** Taiwo
 **Date:** August 15, 2025
 
 ---
